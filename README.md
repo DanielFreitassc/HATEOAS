@@ -4,7 +4,7 @@
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 ```
-## # Pom.xml
+### Pom.xml
 ```
 <dependency>
   <groupId>org.springframework.boot</groupId>
