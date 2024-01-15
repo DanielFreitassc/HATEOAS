@@ -1,4 +1,4 @@
-# spring_HATEOAS
+# spring HATEOAS
 ### Import
 ```
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
